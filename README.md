@@ -1,4 +1,5 @@
  - Contributions are greatly welcomed!!
+ - This theme is heavily inspired by the VS Code dark theme
 
 <h2>Things that need to be done</h2>
 
